@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-type: "page"
 ---
 
-![Email](/images/email.png)  
-![Phone](/images/phone.png)
+![Email: jpark@fuji.waseda.jp](/images/email.png)
+
+![Phone: +82 (0)10 3093 6490](/images/phone.png)
