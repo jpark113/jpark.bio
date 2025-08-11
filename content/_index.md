@@ -1,9 +1,7 @@
 ---
-title: "Profile"
+title: "Home"
 type: "page"
 ---
-
-<img src="/images/james-park.jpg" alt="James Park portrait" width="160" style="float:right; margin:0 0 1rem 1rem;">
 
 Welcome! I’m an early-career researcher and practitioner focused on **digital diplomacy**, **Asia–Pacific international relations**, and **multilateral cooperation**, with a regional focus on **Korea, Japan, and Southeast Asia**.
 

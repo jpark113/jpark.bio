@@ -38,7 +38,7 @@ Digital diplomacy; Asia–Pacific international relations; multilateral governan
 *M.A., International Development and Cooperation — Seoul, South Korea*  
 **Expected Aug. 2025**
 
-- Thesis: *“Nourish to Learn, Prepare to Work”: Linking Early Nutrition to Skills Development in Lao PDR*
+- Research focus: *“Nourish to Learn, Prepare to Work”: Linking Early Nutrition to Skills Development in Lao PDR*
 - Coursework: ODA Policy, Global Governance, Quantitative Analysis, Project Evaluation
 
 ### Waseda University, School of International Liberal Studies  
