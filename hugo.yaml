@@ -16,6 +16,15 @@ params:
 
 
 
+
+# Force HTML at home so GitHub Pages has "/" index.html
+outputs:
+  home: ["HTML","RSS","JSON"]
+  section: ["HTML","RSS"]
+  page: ["HTML"]
+  taxonomy: ["HTML","RSS"]
+  term: ["HTML","RSS"]
+
 menu:
   main:
     - name: Blog
