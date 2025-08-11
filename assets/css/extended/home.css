@@ -1,0 +1,10 @@
+.home-hero__wrap{display:grid;grid-template-columns:280px 1fr;gap:2rem;align-items:start;margin:2rem auto;max-width:1000px;padding:0 1rem}
+.home-hero__photo img{width:100%;max-width:260px;height:auto;border-radius:4px;display:block}
+.home-hero__name{margin:0 0 .75rem 0}
+.home-hero__intro p{margin:.6rem 0 0 0}
+.home-hero__links{margin-top:1.25rem;display:flex;gap:.75rem;flex-wrap:wrap}
+.home-hero__links .btn{padding:.5rem .9rem;border:1px solid currentColor;border-radius:4px;text-decoration:none}
+@media (max-width:720px){
+  .home-hero__wrap{grid-template-columns:1fr}
+  .home-hero__photo{order:0}
+}
