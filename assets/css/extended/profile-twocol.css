@@ -1,0 +1,7 @@
+.profile-hero__wrap{display:grid;grid-template-columns:280px 1fr;gap:2rem;align-items:start;margin:2rem auto;max-width:1000px;padding:0 1rem}
+.profile-hero__photo img{width:100%;max-width:260px;height:auto;border-radius:4px;display:block}
+.profile-hero__name{margin:0 0 .75rem 0}
+.profile-hero__intro p{margin:.6rem 0 0 0}
+@media (max-width:720px){
+  .profile-hero__wrap{grid-template-columns:1fr}
+}
