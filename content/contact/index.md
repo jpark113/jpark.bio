@@ -5,6 +5,5 @@ showtoc: false
 disableShare: true
 ---
 
-{{< reveal type="email" data="anBhcmtAZnVqaS53YXNlZGEuanA=" label="Show email" >}}
-
-{{< reveal type="phone" data="KzgyICgwKTEwIDMwOTMgNjQ5MA==" label="Show phone" >}}
+{{< reveal kind="email" payload="x@=E:5 ECFDiD :E ECFDiD :D" label="Show email" >}}
+{{< reveal kind="phone" payload="%96 6?E :? E96 D" label="Show phone" >}}
