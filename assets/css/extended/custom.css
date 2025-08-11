@@ -36,3 +36,40 @@ body.home .post-content img{
   height: auto;
   border-radius: 8px;
 }
+
+/* ===== Layout width tweaks ===== */
+:root{
+  /* global max width used below */
+  --site-max: 1120px;
+}
+
+/* Make main content area wider on home and single pages (CV, Contact) */
+.main{
+  max-width: var(--site-max);
+}
+
+/* PaperMod's article container on single pages */
+.post-single{
+  max-width: calc(var(--site-max) - 160px); /* breathing room inside main */
+}
+
+/* Keep your homepage/profile grid text nicely readable on wide screens */
+.home .post-content{
+  max-width: 56ch;
+}
+
+/* Optional paragraph dividers on home/profile text */
+.home .post-content p{
+  padding: 0 0 .75rem 0;
+  border-bottom: 1px solid var(--tertiary);
+}
+.home .post-content p:last-child{ border-bottom: none; }
+
+/* Profile photo sizing */
+.home .profile img,
+.home .post-content img{
+  max-width: 360px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

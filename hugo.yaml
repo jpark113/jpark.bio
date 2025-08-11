@@ -59,3 +59,9 @@ menu:
       name: CV
       url: /cv/
       weight: 40
+
+# Allow HTML in Markdown (needed for mailto/tel in Contact)
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
