@@ -32,6 +32,13 @@ menu:
 
 params:
   ShowShareButtons: false
+  disableThemeToggle: false
+  defaultTheme: auto
+  customCSS:
+    - "css/extended/custom.css"
+  customJS:
+    - "js/reveal.js"
+    - "js/theme-toggle-fix.js"
 
 # --- injected by script: share image & clean menu ---
 params:

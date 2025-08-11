@@ -1,0 +1,13 @@
+{{/* Usage:
+     {{< reveal type="email" data="BASE64" label="Email" >}}
+     {{< reveal type="phone" data="BASE64" label="Phone" >}}
+*/}}
+{{ $type  := .Get "type" | default "email" }}
+{{ $data  := .Get "data" | default "" }}
+{{ $label := .Get "label" | default (cond (eq $type "phone") "Phone" "Email") }}
+
+<span class="reveal-wrap" data-type="{{ $type }}" data-enc="{{ $data }}">
+  <button class="btn-reveal" type="button" aria-label="Reveal {{ $label }}">{{ $label }}</button>
+  <span class="reveal-target" aria-live="polite" style="margin-left:.5rem;"></span>
+  <noscript><em>(Enable JavaScript to view {{ $label | lower }})</em></noscript>
+</span>

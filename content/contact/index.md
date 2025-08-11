@@ -5,5 +5,6 @@ showtoc: false
 disableShare: true
 ---
 
-**Email:** <a href="mailto:jpark@fuji.waseda.jp">jpark@fuji.waseda.jp</a>  
-**Phone:** <a href="tel:+821030936490">+82 (0)10 3093 6490</a>
+{{< reveal type="email" data="anBhcmtAZnVqaS53YXNlZGEuanA=" label="Show email" >}}
+
+{{< reveal type="phone" data="KzgyICgwKTEwIDMwOTMgNjQ5MA==" label="Show phone" >}}
