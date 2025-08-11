@@ -37,3 +37,8 @@ menu:
     - name: CV
       url: /cv/
       weight: 70
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
