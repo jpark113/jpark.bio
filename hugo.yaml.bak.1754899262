@@ -36,6 +36,37 @@ menu:
     - name: Blog
       url: https://jampkd.bearblog.dev/
       weight: 20
+      params: { external: true }
+    - name: Contact
+      url: /contact/
+      weight: 30
+    - name: CV
+      url: /cv/
+      weight: 40
+
+  ShowShareButtons: false
+
+  assets:
+    customCSS:
+      - css/custom-footer.css
+
+
+params:
+  ShowShareButtons: false
+  images: ["/images/profile.jpg"]   # default OpenGraph image (update file if you change photo)
+  assets:
+    css:
+      - css/extended/profile-twocol.css
+
+
+menus:
+  main:
+    - name: Profile
+      url: /
+      weight: 10
+    - name: Blog
+      url: https://jampkd.bearblog.dev/
+      weight: 20
       params:
         external: true
     - name: Contact
@@ -44,10 +75,3 @@ menu:
     - name: CV
       url: /cv/
       weight: 40
-
-params:
-  ShowShareButtons: false
-  images: ["/images/profile.jpg"]   # default OpenGraph image
-  assets:
-    css:
-      - css/extended/profile-twocol.css

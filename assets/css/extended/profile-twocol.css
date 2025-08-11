@@ -21,7 +21,6 @@
   padding-top:.75rem;
   margin-top:.75rem;
 }
-/* mobile */
 @media (max-width:720px){
   .profile-hero__wrap{grid-template-columns:1fr; max-width:94%}
   .profile-hero__photo img{max-width:220px}

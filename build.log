@@ -1,0 +1,9 @@
+Start building sites … 
+hugo v0.148.2+extended+withdeploy darwin/arm64 BuildDate=2025-07-27T12:43:24Z VendorInfo=brew
+
+INFO  build:  step process substep collect files 6 files_total 6 pages_total 4 resources_total 2 duration 1.14225ms
+INFO  build:  step process duration 1.327625ms
+INFO  build:  duration 1.381875ms
+INFO  static: syncing static files to / duration 2.036625ms
+Total in 26 ms
+Error: error building site: process: readAndProcessContent: "/Users/james/jpark.bio/content/_index.md:1:1": unmarshal failed: invalid character '{' looking for beginning of object key string
