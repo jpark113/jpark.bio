@@ -23,3 +23,28 @@
   cursor: pointer;
 }
 .reveal-target a { text-decoration: underline; }
+
+/* === Wider single column on home & CV === */
+.home .post-content,
+.single .post-content {
+  max-width: 950px;   /* was ~720px */
+}
+.home .post-content p,
+.single .post-content p {
+  margin-bottom: .75rem;
+  padding-bottom: .75rem;
+  border-bottom: 1px solid var(--tertiary);
+}
+.home .post-content p:last-child,
+.single .post-content p:last-child {
+  border-bottom: none;
+}
+
+/* Profile image sizing */
+.home .profile img,
+.home .post-content img {
+  max-width: 360px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
