@@ -29,25 +29,33 @@ enableRobotsTXT: true
 
 # Global menu
 menu:
-  main:
-    - name: Profile
-      url: /
-      weight: 10
-    - name: Blog
-      url: https://jampkd.bearblog.dev/
-      weight: 20
-      params:
-        external: true
-    - name: Contact
-      url: /contact/
-      weight: 30
-    - name: CV
-      url: /cv/
-      weight: 40
 
 params:
   ShowShareButtons: false
-  images: ["/images/profile.jpg"]   # default OpenGraph image
-  assets:
-    css:
-      - css/extended/profile-twocol.css
+
+# --- injected by script: share image & clean menu ---
+params:
+  images:
+    - /images/og.png     # put your OG image at static/images/og.png (optional)
+  env: production
+
+menu:
+  main:
+    - identifier: profile
+      name: Profile
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: https://jampkd.bearblog.dev/
+      params:
+        external: true
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 30
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 40

@@ -1,0 +1,31 @@
+/* Widen homepage "profile" layout */
+.home .profile,
+.home .post-content{
+  max-width: 1200px !important;
+  width: 100%;
+}
+
+/* Gentle paragraph separators on the home/profile page */
+.home .post-content p{
+  padding: 0 0 .75rem 0;
+  border-bottom: 1px solid var(--tertiary);
+}
+.home .post-content p:last-child{ border-bottom: none; }
+
+/* Keep profile image tidy */
+.home .profile img,
+.home .post-content img{
+  max-width: 360px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Contact page images scale nicely */
+.post-content img{
+  max-width: 420px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 0 1rem 0;
+}
