@@ -40,17 +40,7 @@ menu:
       params: { external: true }
     - name: Contact
       url: /contact/
-      weight: 60
+      weight: 30
     - name: CV
       url: /cv/
-      weight: 70
-
-params:
-  # PaperMod tweaks
-  ShowShareButtons: false   # no social share anywhere
-  socialIcons: []           # remove social icon row if theme checks it
-  images: ["/images/profile.jpg"]   # default OG image
-  assets:
-    css:
-      - css/custom.css
-      - css/print.css
+      weight: 40

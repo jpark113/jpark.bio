@@ -1,5 +1,3 @@
-{{< profilepic src="/images/profile.jpg" alt="James Park" width="640" >}}
-
 ---
 title: "James Park"
 photo: "/images/james-park.jpg"
