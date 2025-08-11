@@ -12,3 +12,6 @@ Currently, I’m a **Program Officer at Human Asia** (Seoul), where I lead bilin
 I’m completing an **M.A. in International Development and Cooperation** at **Korea University** (expected Aug 2025) and hold a **B.A. from Waseda University** (Tokyo).
 
 **Recent:** research on linking early nutrition to skills development in Lao PDR; designed a Human Rights Summer School program-to-internship pipeline.
+
+![James Park portrait](/images/james-park.jpg)
+
