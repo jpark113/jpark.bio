@@ -25,7 +25,6 @@ outputs:
   taxonomy: ["HTML","RSS"]
   term: ["HTML","RSS"]
 
-
 menu:
   main:
     - name: Profile
