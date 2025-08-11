@@ -40,14 +40,12 @@ Digital diplomacy; Asia–Pacific international relations; multilateral governan
 
 - Thesis: *“Nourish to Learn, Prepare to Work”: Linking Early Nutrition to Skills Development in Lao PDR*
 - Coursework: ODA Policy, Global Governance, Quantitative Analysis, Project Evaluation
-- GPA: 3.71 / 4.5
 
 ### Waseda University, School of International Liberal Studies  
 *B.A., International Liberal Studies — Tokyo, Japan*  
 **Jul. 2022**
 
 - Concentration: International Relations, Northeast Asian Studies
-- GPA (US scale): ~3.75–3.85 / 4.0
 - Activities: Debate Society, Cultural Exchange Programs
 
 ---
