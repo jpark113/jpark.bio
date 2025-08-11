@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main class="profile-hero">
+  <div class="profile-hero__wrap">
+    <div class="profile-hero__photo">
+      <img src="{{ .Params.photo | default "/images/james-park.jpg" | absURL }}" alt="James Park portrait">
+    </div>
+    <div class="profile-hero__intro">
+      <h1 class="profile-hero__name">{{ site.Title }}</h1>
+      {{ .Content }}
+    </div>
+  </div>
+</main>
+{{ end }}
