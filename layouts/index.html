@@ -1,13 +1,4 @@
 {{ define "main" }}
-<main class="home-hero">
-  <div class="home-hero__wrap">
-    <div class="home-hero__photo">
-      <img src="{{ "/images/james-park.jpg" | absURL }}" alt="James Park portrait" />
-    </div>
-    <div class="home-hero__intro">
-      <h1 class="home-hero__name">{{ site.Title }}</h1>
-      {{ with .Content }}{{ . }}{{ end }}
-    </div>
-  </div>
-</main>
+  <script>location.href="{{ "/profile/" | relURL }}";</script>
+  <noscript><meta http-equiv="refresh" content="0; url={{ "/profile/" | relURL }}" /></noscript>
 {{ end }}

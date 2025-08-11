@@ -16,9 +16,6 @@ params:
 
 menu:
   main:
-    - name: Home
-      url: /
-      weight: 10
     - name: Profile
       url: /profile/
       weight: 20
@@ -50,9 +47,6 @@ markup:
 
 menu:
   main:
-    - name: Home
-      url: /
-      weight: 10
     - name: Profile
       url: /profile/
       weight: 20
