@@ -14,72 +14,14 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
 
+
 menu:
   main:
-    - name: Profile
-      url: /profile/
+    - name: Blog
+      url: https://jampkd.bearblog.dev/
       weight: 20
-    - name: Work
-      url: /work/
-      weight: 30
-    - name: Dev
-      url: /dev/
-      weight: 40
-    - name: Blog
-      url: /blog/
-      weight: 50
-    - name: Contact
-      url: /contact/
-      weight: 60
-    - name: CV
-      url: /cv/
-      weight: 70
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: false
-
-menu:
-  main:
-    - name: Profile
-      url: /profile/
-      weight: 20
-    - name: Work
-      url: /work/
-      weight: 30
-    - name: Dev
-      url: /dev/
-      weight: 40
-    - name: Blog
-      url: /blog/
-      weight: 50
-    - name: Contact
-      url: /contact/
-      weight: 60
-    - name: CV
-      url: /cv/
-      weight: 70
-
-menu:
-  main:
-    - name: Profile
-      url: /profile/
-      weight: 10
-    - name: Work
-      url: /work/
-      weight: 30
-    - name: Dev
-      url: /dev/
-      weight: 40
-    - name: Blog
-      url: /blog/
-      weight: 50
+      params:
+        external: true
     - name: Contact
       url: /contact/
       weight: 60

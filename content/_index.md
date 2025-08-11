@@ -1,6 +1,5 @@
 ---
-title: "Profile"
-layout: "twocol"
+title: "James Park"
 photo: "/images/james-park.jpg"
 ---
 
