@@ -44,3 +44,11 @@ menu:
     - name: CV
       url: /cv/
       weight: 40
+
+params:
+  ShowShareButtons: false
+
+params:
+  assets:
+    customCSS:
+      - css/custom-footer.css
