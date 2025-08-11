@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-type: page
+showtoc: false
 ---
 
-{{< reveal kind="email" payload=";A2C<o7F;:]H2D652];A" label="Show email" >}}
-{{< reveal kind="phone" payload="" label="Show phone" >}}
+{{< reveal kind="email" payload="anBhcmtAZnVqaS53YXNlZGEuanA=" label="Show email" >}}
+{{< reveal kind="phone" payload="KzgyICgwKTEwIDMwOTMgNjQ5MA==" label="Show phone" >}}

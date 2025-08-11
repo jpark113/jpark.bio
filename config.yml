@@ -1,0 +1,5 @@
+
+params:
+  assets:
+    css:
+      - css/extra.css

@@ -1,5 +1,7 @@
-<button class="btn" data-reveal
-  data-kind="{{ .Get "kind" }}"
-  data-payload="{{ .Get "payload" }}">
-  {{ with .Get "label" }}{{ . }}{{ else }}Reveal{{ end }}
+{{/* Shortcode: reveal
+Use: {{< reveal kind="email" payload="<encoded>" label="Show email" >}}
+      {{< reveal kind="phone" payload="<encoded>" label="Show phone" >}}
+*/}}
+<button class="btn" data-kind="{{ .Get "kind" }}" data-payload="{{ .Get "payload" }}" type="button">
+  {{ .Get "label" }}
 </button>

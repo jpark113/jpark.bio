@@ -1,0 +1,5 @@
+/* Wider layout for homepage/profile and CV */
+.single .post-content,
+.single .post-title {
+  max-width: 920px;  /* tweak as you like */
+}
