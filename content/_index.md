@@ -1,4 +1,5 @@
 ---
+description: "James Park — digital diplomacy, Asia–Pacific IR, multilateral cooperation."
 title: "James Park"
 photo: "/images/james-park.jpg"
 ---

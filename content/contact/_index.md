@@ -5,6 +5,6 @@ showtoc: false
 disableShare: true
 ---
 
-![](/images/email.png)
+[![Email: jpark@fuji.waseda.jp](/images/email.png)](mailto:jpark@fuji.waseda.jp)
 
 ![](/images/phone.png)
