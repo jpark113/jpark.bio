@@ -9,3 +9,22 @@
 }
 /* Tighter spacing under the hero title */
 .home h1.post-title{margin-bottom:.5rem}
+
+/* --- Profile layout tweaks --- */
+.home .post-content{max-width:960px;margin-left:0}
+.home .post-title{margin-bottom:.75rem}
+.home .post-content p{
+  margin:0 0 1rem 0;
+  padding:0 0 .75rem 0;
+  border-bottom:1px solid var(--tertiary);
+}
+.home .post-content p:last-child{border-bottom:none}
+
+/* Profile photo sizing (keeps your current image looking tidy) */
+.home .profile img,
+.home .post-content img{
+  max-width:360px;
+  width:100%;
+  height:auto;
+  border-radius:8px;
+}
