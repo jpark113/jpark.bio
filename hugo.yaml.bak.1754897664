@@ -25,10 +25,6 @@ outputs:
   taxonomy: ["HTML","RSS"]
   term: ["HTML","RSS"]
 
-baseURL: "https://jpark.bio/"
-enableRobotsTXT: true
-
-# Global menu
 menu:
   main:
     - name: Profile
@@ -37,20 +33,11 @@ menu:
     - name: Blog
       url: https://jampkd.bearblog.dev/
       weight: 20
-      params: { external: true }
+      params:
+        external: true
     - name: Contact
       url: /contact/
       weight: 60
     - name: CV
       url: /cv/
       weight: 70
-
-params:
-  # PaperMod tweaks
-  ShowShareButtons: false   # no social share anywhere
-  socialIcons: []           # remove social icon row if theme checks it
-  images: ["/images/profile.jpg"]   # default OG image
-  assets:
-    css:
-      - css/custom.css
-      - css/print.css

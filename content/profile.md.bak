@@ -1,7 +1,6 @@
-{{< profilepic src="/images/profile.jpg" alt="James Park" width="640" >}}
-
 ---
-title: "James Park"
+title: "Profile"
+layout: "twocol"
 photo: "/images/james-park.jpg"
 ---
 

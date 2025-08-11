@@ -1,0 +1,11 @@
+/* Visually hidden helper (keeps content for screen readers) */
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* Home/profile section width */
+.home .post-single .post-content{max-width:900px;margin:0 auto}
+@media (max-width: 768px){
+  .home .post-single .post-content{max-width:94%}
+  img{height:auto;max-width:100%}
+}
+/* Tighter spacing under the hero title */
+.home h1.post-title{margin-bottom:.5rem}

@@ -1,0 +1,8 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Profile photo" }}
+{{ $w   := .Get "width" | default "640" }}
+{{ $res := resources.Get (printf "%s" (replace $src "/images/" "images/")) | default (resources.Get "images/profile.jpg") }}
+{{ with $res }}
+  {{ $img := .Resize (printf "%sx q80" $w) }}
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async" style="border-radius:8px;">
+{{ end }}

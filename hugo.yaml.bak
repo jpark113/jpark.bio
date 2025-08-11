@@ -1,0 +1,31 @@
+baseURL: "https://jpark.bio/"
+languageCode: "en-us"
+title: "James Park"
+
+# PaperMod via Hugo Modules
+theme:
+  - github.com/adityatelange/hugo-PaperMod
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+
+
+menu:
+  main:
+    - name: Blog
+      url: https://jampkd.bearblog.dev/
+      weight: 20
+      params:
+        external: true
+    - name: Contact
+      url: /contact/
+      weight: 60
+    - name: CV
+      url: /cv/
+      weight: 70

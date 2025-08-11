@@ -1,0 +1,5 @@
+@media print{
+  header, nav, .toc, footer, .post-meta, .post-share { display:none !important; }
+  main, .post-content{ max-width:720px; margin:0; }
+  a[href^="http"]::after{ content:" (" attr(href) ")"; font-size:.85em; }
+}
