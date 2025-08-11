@@ -37,7 +37,7 @@ menu:
         external: true
     - name: Contact
       url: /contact/
-      weight: 60
+      weight: 30
     - name: CV
       url: /cv/
-      weight: 70
+      weight: 40
