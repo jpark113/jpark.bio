@@ -1,6 +1,5 @@
 ---
 title: "Experience"
-description: "Program, policy, and operations experience of James Park"
 ---
 
 ## Human Asia · Program Officer
