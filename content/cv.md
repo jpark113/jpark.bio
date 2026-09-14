@@ -45,5 +45,3 @@ Bilingual General Affairs Specialist, August 2023–February 2024
 Policy research, project coordination, market research, copywriting, project management, and Python. Native English, bilingual Korean, and basic Japanese.
 
 For Ph.D. applications or research and policy opportunities, please [contact me](/contact/).
-
-Google Voice: [+1 (347) 878-0129](tel:+13478780129)
