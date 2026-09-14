@@ -22,6 +22,7 @@ params:
   disableThemeToggle: false
   defaultTheme: auto
   ShowShareButtons: false
+  hideFooter: true
 
 menu:
   main:
