@@ -10,4 +10,4 @@ I graduated from **Korea University's Graduate School of International Studies**
 
 From March to December 2025, I was a **Program Officer at Human Asia**, coordinating nonprofit education programs and internships. Earlier, I was a **Bilingual General Affairs Specialist at Samsung Electronics Home Appliance** in South Carolina, managing vendors, budgets, and support for international leadership.
 
-My background in international development and program coordination informs this research agenda. I am also open to research, policy, and program roles. See my [research interests](/research/), [experience](/experience/), or [CV](/cv/).
+My background in international development and program coordination informs this research agenda. I am also open to research, policy, and program roles. See my [research interests](/research/) and [CV](/cv/).

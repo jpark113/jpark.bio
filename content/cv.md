@@ -30,6 +30,8 @@ Program Officer, March–December 2025
 - Created and managed Human Asia Summer School, combining education programming with fundraising.
 - Helped launch and manage the Angels to Angels secondhand-goods program.
 - Coordinated interns from Japanese universities and Korean schools, as well as part-time interns.
+- Helped renew Human Asia's website, avoiding an estimated KRW 20 million in website build costs.
+- Coordinated wildfire-relief support involving approximately KRW 200 million in goods donated by Helinox.
 
 **Samsung Electronics Home Appliance**, Irmo, South Carolina<br>
 Bilingual General Affairs Specialist, August 2023–February 2024
@@ -43,3 +45,5 @@ Bilingual General Affairs Specialist, August 2023–February 2024
 Policy research, project coordination, market research, copywriting, project management, and Python. Native English, bilingual Korean, and basic Japanese.
 
 For Ph.D. applications or research and policy opportunities, please [contact me](/contact/).
+
+Google Voice: [+1 (347) 878-0129](tel:+13478780129)
