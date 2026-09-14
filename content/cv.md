@@ -1,6 +1,5 @@
 ---
 title: "CV"
-description: "Education, doctoral research interests, and professional experience of James Park"
 showtoc: true
 ---
 
