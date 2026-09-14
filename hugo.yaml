@@ -1,73 +1,46 @@
 baseURL: "https://jpark.bio/"
 languageCode: "en-us"
 title: "James Park"
+enableRobotsTXT: true
 
-# PaperMod via Hugo Modules
 theme:
   - github.com/adityatelange/hugo-PaperMod
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
 
-  defaultTheme: auto
-  ShowReadingTime: true
-  ShowShareButtons: true
-
-
-
-
-# Force HTML at home so GitHub Pages has "/" index.html
 outputs:
-  home: ["HTML","RSS","JSON"]
-  section: ["HTML","RSS"]
+  home: ["HTML", "RSS", "JSON"]
+  section: ["HTML", "RSS"]
   page: ["HTML"]
-  taxonomy: ["HTML","RSS"]
-  term: ["HTML","RSS"]
-
-baseURL: "https://jpark.bio/"
-enableRobotsTXT: true
-
-# Global menu
-menu:
+  taxonomy: ["HTML", "RSS"]
+  term: ["HTML", "RSS"]
 
 params:
-  ShowShareButtons: false
+  env: production
+  description: "James Park | U.S.–Japan–Korea relations, digital sovereignty, and northern shipping routes"
   disableThemeToggle: false
   defaultTheme: auto
-  customCSS:
-    - "css/extended/custom.css"
-  customJS:
-    - "js/reveal.js"
-    - "js/theme-toggle-fix.js"
-
-# --- injected by script: share image & clean menu ---
-params:
-  images:
-    - /images/og.png     # put your OG image at static/images/og.png (optional)
-  env: production
+  ShowShareButtons: false
 
 menu:
   main:
-    - identifier: profile
-      name: Profile
+    - name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: https://jampkd.bearblog.dev/
-      params:
-        external: true
+    - name: Research
+      url: /research/
       weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
+    - name: Experience
+      url: /experience/
       weight: 30
-    - identifier: cv
-      name: CV
+    - name: CV
       url: /cv/
       weight: 40
+    - name: Contact
+      url: /contact/
+      weight: 50
 
-# Allow HTML in Markdown (needed for mailto/tel in Contact)
 markup:
   goldmark:
     renderer:
