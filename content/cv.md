@@ -3,65 +3,44 @@ title: "CV"
 showtoc: true
 ---
 
-## James Park
-Digital diplomacy | Asia–Pacific IR | Multilateral cooperation | Political economy of development  
-Email: jpark@fuji.waseda.jp | Website: [jpark.bio](https://jpark.bio) | Location: Seoul, South Korea  
+## Research interests
 
-## Research Interests
-Digital diplomacy; Asia–Pacific international relations; multilateral governance; political economy of development with focus on Korea, Japan, and Southeast Asia
-
----
-
-## Professional Experience
-
-### Human Asia  
-*Program Officer — Seoul, South Korea*  
-**Mar. 2025 – Present**
-
-- Directed full bilingual website renewal (market value KRW 20M) at zero cost, saving development, hosting, and maintenance expenses; produced content management manual for long-term sustainability.
-- Designed Human Rights Summer School integrating academic training with internships; linked curriculum to practical skill development for participants.
-- Secured KRW 150M (USD ~110,000) in in-kind wildfire relief goods; managed logistics, partnerships, and public communications.
-
-### Samsung Electronics Home Appliance  
-*General Affairs Specialist — Irmo, SC, USA*  
-**Aug. 2023 – Feb. 2024**
-
-- Streamlined relocation process for 3 international assignees, reducing transition time from ~6 months to under 1 month.
-- Managed cross-functional vendor relations and executive protocol for multinational leadership.
-- Coordinated corporate housing, visas, and travel for senior staff and their families.
-
----
+U.S.–Japan–Korea trilateral relations; digital sovereignty and digital security; the Bering Strait and northern shipping routes; U.S.–Russia strategic dynamics; Korea, Japan, and China in Arctic and northern-route geopolitics.
 
 ## Education
 
-### Korea University, Graduate School of International Studies  
-*M.A., International Development and Cooperation — Seoul, South Korea*  
-**Expected Aug. 2025**
+**Korea University, Graduate School of International Studies**, Seoul, South Korea<br>
+M.A., International Development and Cooperation, August 2025
 
-- Research focus: *“Nourish to Learn, Prepare to Work”: Linking Early Nutrition to Skills Development in Lao PDR*
-- Coursework: ODA Policy, Global Governance, Quantitative Analysis, Project Evaluation
+- Focus on ODA policy, global development, and multilateral governance.
+- Research on development policy and multilateral aid frameworks.
 
-### Waseda University, School of International Liberal Studies  
-*B.A., International Liberal Studies — Tokyo, Japan*  
-**Jul. 2022**
+**Waseda University**, Tokyo, Japan<br>
+B.A., School of International Liberal Studies, July 2022
 
-- Concentration: International Relations, Northeast Asian Studies
-- Activities: Debate Society, Cultural Exchange Programs
+- Concentration in international relations and Northeast Asian relations.
+- Project-based work spanning ESG, IT security, and international diplomacy.
 
----
+## Professional experience
 
-## Research & Publications
-- **Working Paper:** “Nourish to Learn, Prepare to Work” — Proposed integrated ECCE & nutrition intervention for long-term skills development in Lao PDR
+**Human Asia**, Seoul, South Korea<br>
+Program Officer, March–December 2025
 
----
+- Created and managed Human Asia Summer School, combining education programming with fundraising.
+- Helped launch and manage the Angels to Angels secondhand-goods program.
+- Coordinated interns from Japanese universities and Korean schools, as well as part-time interns.
+- Helped renew Human Asia's website, avoiding an estimated KRW 20 million in website build costs.
+- Coordinated wildfire-relief support involving approximately KRW 200 million in goods donated by Helinox.
 
-## Skills & Competencies
-- **Languages:** Native English & Korean; conversational Japanese
-- **Policy & Research:** Policy analysis, program evaluation, ODA project design
-- **Program & Project Management:** International program coordination, partnership building, grant administration, event organization
-- **Communications:** Cross-cultural communications strategy, intercultural negotiation, stakeholder engagement
+**Samsung Electronics Home Appliance**, Irmo, South Carolina<br>
+Bilingual General Affairs Specialist, August 2023–February 2024
 
----
+- Managed vendors across hospitality, food, waste management, events, and contracting.
+- Tracked budgets and financial requests to support accurate billing.
+- Provided administrative support for senior leadership, Korean advisors, and visitors.
 
-## PDF Version
-[Download CV (PDF)](/files/james-park-cv.pdf)
+## Skills and languages
+
+Policy research, project coordination, market research, copywriting, project management, and Python. Native English, bilingual Korean, and basic Japanese.
+
+For Ph.D. applications or research and policy opportunities, please [contact me](/contact/).
